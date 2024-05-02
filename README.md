@@ -1,4 +1,4 @@
-# A-OS
+# R-OS
 
-A RISC-V OS written in ATS ((http://www.ats-lang.org/)
+A RISC-V OS written in Rust
 
