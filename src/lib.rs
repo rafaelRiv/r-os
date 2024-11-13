@@ -3,7 +3,7 @@
 // 21 Sep 2019
 
 #![no_std]
-#![feature(panic_info_message,asm)]
+#![feature(panic_info_message)]
 
 use core::arch::asm;
 
